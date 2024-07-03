@@ -4,9 +4,12 @@ MonkeyNews App is a live news website using React that displays live news update
 
 ## Screenshots
 
-![Alt text](screenshots/1.jpg)
-![Alt text](screenshots/3.jpg)
-![Alt text](screenshots/2.jpg)
+Here are some screenshots of the application in use:
+
+![Screenshot 1](screenshots/1.jpg)
+![Screenshot 2](screenshots/2.jpg)
+![Screenshot 3](screenshots/3.jpg)
+
 
 - Visit the project website [here](https://monkeynews.azurewebsites.net/).
 
